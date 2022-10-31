@@ -10,5 +10,5 @@ Entender como utilizar e validar formulários.
 
 Conhecer boas práticas de organização de código Javascript. 
 
-https://cdn-icons-png.flaticon.com/512/1199/1199124.png
+![](https://cdn-icons-png.flaticon.com/512/1199/1199124.png)
 
